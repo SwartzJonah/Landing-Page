@@ -1,0 +1,44 @@
+.header{
+    background-color: #1F2937;
+    font-size: 24px;
+    color: #F9FaF8;
+}
+
+.signup{
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.bottom-signup{
+    background-color: #3882f6;
+}
+
+.quotebox{
+    background-color: #E5E7EB;
+}
+
+.quotetext{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quotecredit{
+    color: #1F2937;
+}
+
+.herotext{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FaF8;
+}
+
+.buttontopcolor{
+    background-color: #3882f6;
+}
+
+button{
+    background-color: #3882f6;
+    border-color: white;
+}
