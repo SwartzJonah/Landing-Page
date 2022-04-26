@@ -75,16 +75,22 @@ a{
 .infobox img{
     border: solid #3882f6;
     border-radius: 10px;
-    min-width: 80px;
-    min-height: 80px;
+    width: 200px;
+    height: 200px;
     
 }
 .infobox{
     font-size: 12px;
-    max-width: 100px;
+    max-width: 250px;
     text-align: center;
 }
-
+.imagetext{
+    font-size: 24px;
+}
+.mountain{
+    max-width: 300px;
+    max-height: auto;
+}
 .bottom-signup{
     background-color: #3882f6;
 }
