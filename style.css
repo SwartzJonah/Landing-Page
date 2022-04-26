@@ -15,6 +15,7 @@ ul{
 a{
     color: #F9FaF8;
     text-decoration: none;
+    font-size: 12px;
 }
 
 
@@ -88,16 +89,25 @@ a{
 }
 
 .quotebox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 48px;
     background-color: #E5E7EB;
+    
 }
 
 .quotetext{
+    display: flex;
+    flex-wrap: wrap;
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
 }
 
 .quotecredit{
+    align-self: flex-end;
     color: #1F2937;
 }
 
@@ -105,6 +115,22 @@ a{
     font-size: 48px;
     font-weight: 900;
     color: #F9FaF8;
+}
+
+.bottombox{
+    display: flex;
+    padding: 24px 48px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 48px;
+    background-color: #3882f6;
+    color: white;
+}
+.ctatext{
+    font-weight: bold;
+}
+.signuptext{
+    font-size: 12px;
 }
 
 .buttontopcolor{
@@ -115,6 +141,9 @@ a{
 .footer{
     color: white;
     background-color: #1F2937;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
 }
 button{
     background-color: #3882f6;
