@@ -71,10 +71,16 @@ a{
     gap: 50px;
 }
 .infobox img{
-    border: 18px, solid, #3882f6;
+    border: solid #3882f6;
+    border-radius: 10px;
+    min-width: 80px;
+    min-height: 80px;
+    
 }
 .infobox{
-
+    font-size: 12px;
+    max-width: 100px;
+    text-align: center;
 }
 
 .bottom-signup{
