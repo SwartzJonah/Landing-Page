@@ -1,3 +1,3 @@
 # Landing-Page
-Creating a landing page for a website content tbd
-Credit:
+Creating a landing page for a website content 
+demo: https://swartzjonah.github.io/Landing-Page/
